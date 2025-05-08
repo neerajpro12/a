@@ -15,6 +15,7 @@ Exp 7
 
   In TCP Experimet create two files,
   i. first_file.txt
-  ii. second_file.txt
+  ii. second_file.txt. 
+  And put all 4 files in same folder.
 
   
