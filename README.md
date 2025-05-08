@@ -20,7 +20,7 @@ Exp 7 -                        tcp_server.py
 | Exp 4 - MATLAB     | ber.m     |
 | Exp 5 - DHCP    | |
 | Exp 6 - Handoff  |  Handoff.zip  |
-| Exp 7 - TCP  | tcp_server.py  tcp_client.py |  |
+| Exp 7 - TCP  | tcp_server.py<br>tcp_client.py<br>first_file.txt<br>second_file.txt   |
 
 
   
