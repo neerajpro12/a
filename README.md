@@ -9,7 +9,7 @@ Exp 5 - DHCP
 Exp 6 - Handoff
   Handoff.zip
 
-Exp 7
+Exp 7 - 
   tcp_server.py
   tcp_client.py
 
