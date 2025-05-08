@@ -13,4 +13,8 @@ Exp 7
   tcp_server.py
   tcp_client.py
 
+  In TCP Experimet create two files,
+  i. first_file.txt
+  ii. second_file.txt
+
   
