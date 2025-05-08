@@ -14,4 +14,10 @@ Exp 7 -                        tcp_server.py
   ii. second_file.txt. 
   And put all 4 files in same folder.
 
+ | Experiment     | filename        |
+|-----------------|-----------------|
+| Exp 1 - CDMA    | CDMA.py         |
+| Row 2 Col 1     | Row 2 Col 2     |
+
+
   
