@@ -17,7 +17,10 @@ Exp 7 -                        tcp_server.py
  | Experiment     | filename        |
 |-----------------|-----------------|
 | Exp 1 - CDMA    | CDMA.py         |
-| Row 2 Col 1     | Row 2 Col 2     |
+| Exp 4 - MATLAB     | ber.m     |
+| Exp 5 - DHCP    | |
+| Exp 6 - Handoff  |  Handoff.zip  |
+| Exp 7 - TCP  | tcp_server.py  tcp_client.py |  |
 
 
   
