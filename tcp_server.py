@@ -11,7 +11,7 @@ sock.listen(totalclient)
 # Establishing Connections 
 connections = [] 
 print('Initiating clients') 
-for i in range(totalclient): 1
+for i in range(totalclient):
 
     conn, addr = sock.accept() 
     connections.append(conn) 
