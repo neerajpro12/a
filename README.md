@@ -1,10 +1,10 @@
-| Experiment     | filename        |
-|-----------------|-----------------|
-| Exp 1 - CDMA    | CDMA.py         |
-| Exp 4 - MATLAB     | ber.m     |
-| Exp 5 - DHCP    | |
-| Exp 6 - Handoff  |  Handoff.zip  |
-| Exp 7 - TCP  | tcp_server.py<br>tcp_client.py<br>first_file.txt<br>second_file.txt   |
+| Experiment     | filename        | Software |
+|-----------------|-----------------|------------|
+| Exp 1 - CDMA    | CDMA.py        | Spyder |
+| Exp 4 - MATLAB     | ber.m    | MATLAB |
+| Exp 5 - DHCP    | | Cisco Packet Tracer|
+| Exp 6 - Handoff  |  Handoff.zip  | IIT Khargapur|
+| Exp 7 - TCP  | tcp_server.py<br>tcp_client.py<br>first_file.txt<br>second_file.txt   | Spyder |
 
 Note:
 
